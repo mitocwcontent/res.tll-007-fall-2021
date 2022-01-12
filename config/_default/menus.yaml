@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-b9e4cd9a37d74703bd527451a1c8edc7
+  name: Online Publication
+  url: https://mit-serc.pubpub.org/
+  weight: 1000
